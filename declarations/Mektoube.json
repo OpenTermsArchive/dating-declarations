@@ -1,0 +1,15 @@
+{
+  "name": "Mektoube",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.mektoube.fr/mentions-legales",
+      "executeClientScripts": true,
+      "select": ".shell"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.mektoube.fr/charte-vie-privee",
+      "executeClientScripts": true,
+      "select": ".shell"
+    }
+  }
+}

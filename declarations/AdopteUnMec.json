@@ -1,0 +1,15 @@
+{
+  "name": "AdopteUnMec",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.adopteunmec.com/cgu/",
+      "executeClientScripts": true,
+      "select": ".tab-content"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.adopteunmec.com/sensitive/",
+      "executeClientScripts": true,
+      "select": ".tab-content"
+    }
+  }
+}

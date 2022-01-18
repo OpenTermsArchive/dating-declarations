@@ -1,0 +1,13 @@
+{
+  "name": "Parship",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.parship.fr/termsandconditions/",
+      "select": ".legalTextBox"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.parship.fr/privacypolicy/",
+      "select": ".legalTextBox"
+    }
+  }
+}

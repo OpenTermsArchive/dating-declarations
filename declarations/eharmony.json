@@ -1,0 +1,13 @@
+{
+  "name": "eharmony",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.eharmony.co.uk/termsandconditions/",
+      "select": ".legalTextBox"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.eharmony.co.uk/privacypolicy/",
+      "select": ".legalTextBox"
+    }
+  }
+}

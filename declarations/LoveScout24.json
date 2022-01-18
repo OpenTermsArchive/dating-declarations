@@ -1,0 +1,13 @@
+{
+  "name": "LoveScout24",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.lovescout24.de/pages/misc/community-guidelines",
+      "select": "#article_content"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.lovescout24.de/pages/misc/privacy",
+      "select": "#article_content"
+    }
+  }
+}

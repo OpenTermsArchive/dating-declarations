@@ -1,0 +1,13 @@
+{
+  "name": "HER",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://weareher.com/terms/",
+      "select": ".wrapper"
+    },
+    "Privacy Policy": {
+      "fetch": "https://weareher.com/privacy/",
+      "select": ".wrapper"
+    }
+  }
+}
