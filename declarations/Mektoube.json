@@ -2,14 +2,16 @@
   "name": "Mektoube",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.mektoube.fr/mentions-legales",
+      "fetch": "https://www.mektoube.fr/cgu",
       "executeClientScripts": true,
-      "select": ".shell"
+      "select": ".subsidary",
+      "remove": ".subsidary--action"
     },
     "Privacy Policy": {
       "fetch": "https://www.mektoube.fr/charte-vie-privee",
       "executeClientScripts": true,
-      "select": ".shell"
+      "select": ".subsidary",
+      "remove": ".subsidary--action"
     }
   }
 }
