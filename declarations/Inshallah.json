@@ -1,0 +1,13 @@
+{
+  "name": "Inshallah",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.inshallah.com/en/terms",
+      "select": ".jss1"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.inshallah.com/en/privacy-policy/",
+      "select": ".jss1"
+    }
+  }
+}

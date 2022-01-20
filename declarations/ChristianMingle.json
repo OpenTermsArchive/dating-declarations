@@ -1,0 +1,9 @@
+{
+  "name": "ChristianMingle",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://about.christianmingle.com/en/legal-en/privacy-policy/",
+      "select": ".legal-text-container"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Jdate",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://about.jdate.com/legal-en/terms-of-use/",
+      "select": ".entry-content"
+    },
+    "Privacy Policy": {
+      "fetch": "https://about.jdate.com/legal-en/privacy-policy/",
+      "select": ".entry-content"
+    }
+  }
+}

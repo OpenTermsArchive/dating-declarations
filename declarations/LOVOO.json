@@ -1,0 +1,13 @@
+{
+  "name": "LOVOO",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.lovoo.com/legal/toc",
+      "select": ".s-rich-text"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.lovoo.com/legal/privacy",
+      "select": ".s-rich-text"
+    }
+  }
+}

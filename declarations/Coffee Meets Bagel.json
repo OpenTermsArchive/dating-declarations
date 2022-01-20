@@ -1,0 +1,15 @@
+{
+  "name": "Coffee Meets Bagel",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://coffeemeetsbagel.com/privacy-terms/",
+      "startBefore": "#av_section_2",
+      "endBefore": "#av_section_3"
+    },
+    "Privacy Policy": {
+      "fetch": "https://coffeemeetsbagel.com/privacy-terms/",
+      "startBefore": "#av_section_3",
+      "endBefore": "#av_section_4"
+    }
+  }
+}

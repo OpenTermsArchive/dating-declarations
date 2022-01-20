@@ -1,0 +1,11 @@
+{
+  "name": "Fruitz",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://fruitz.io/terms_en.pdf"
+    },
+    "Privacy Policy": {
+      "fetch": "https://fruitz.io/privacy_en.pdf"
+    }
+  }
+}

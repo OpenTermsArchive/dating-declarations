@@ -1,0 +1,9 @@
+{
+  "name": "DisonsDemain",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.disonsdemain.fr/pages/misc/privacy",
+      "select": ".content"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Mektoube",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.mektoube.fr/cgu",
+      "executeClientScripts": true,
+      "select": ".subsidary",
+      "remove": ".subsidary--action"
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.mektoube.fr/charte-vie-privee",
+      "executeClientScripts": true,
+      "select": ".subsidary",
+      "remove": ".subsidary--action"
+    }
+  }
+}

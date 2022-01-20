@@ -1,0 +1,9 @@
+{
+  "name": "Meetic",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://www.meetic.fr/pages/misc/privacy",
+      "select": "#article_content"
+    }
+  }
+}
