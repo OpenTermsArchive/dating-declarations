@@ -2,12 +2,13 @@
   "name": "Grindr",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.grindr.com/terms-of-service/",
-      "select": ".right-content"
+      "fetch": "https://www.grindr.com/terms-of-service/en-US.html",
+      "select": "body"
     },
     "Privacy Policy": {
       "fetch": "https://www.grindr.com/privacy-policy/",
-      "select": ".right-content"
+      "select": "#multi-lang-content",
+      "executeClientScripts": true
     }
   }
 }
