@@ -8,7 +8,8 @@
     },
     "Privacy Policy": {
       "fetch": "https://docviewer.zoosk.com/legal-privacy-en_eu.html",
-      "select": ".legal__inner"
+      "select": ".legal__inner",
+      "remove": "#ot-sdk-btn"
     }
   }
 }
