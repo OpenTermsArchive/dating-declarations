@@ -3,11 +3,13 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://coffeemeetsbagel.com/privacy-terms/",
-      "select": "#av_section_2"
+      "startBefore": "#av_section_2",
+      "endBefore": "#av_section_3"
     },
     "Privacy Policy": {
       "fetch": "https://coffeemeetsbagel.com/privacy-terms/",
-      "select": "#av_section_3"
+      "startBefore": "#av_section_3",
+      "endBefore": "#av_section_4"
     }
   }
 }
