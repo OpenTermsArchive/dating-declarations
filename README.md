@@ -1,6 +1,6 @@
 # Open Terms Archive - Dating services
 
-These services declarations are maintained by [HestiaLabs](https://hestialabs.org) and tracked on [Open Terms Archive](https://opentermsarchive.org).
+These services declarations are maintained by the [Dating Privacy collective](https://dating-privacy.hestialabs.org/) with the support of [HestiaLabs](https://hestialabs.org) and tracked on [Open Terms Archive](https://opentermsarchive.org).
 
 These service declarations are consumed by the [Open Terms Archive engine](https://github.com/ambanum/OpenTermsArchive). See the Open Terms Archive [contribution guidelines](https://github.com/OpenTermsArchive/services-all/blob/main/CONTRIBUTING.md) to learn how to add and update services or documents.
 
