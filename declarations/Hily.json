@@ -1,0 +1,11 @@
+{
+  "name": "Hily",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://hily.com/privacypolicy",
+      "select": [
+        ".policy-new"
+      ]
+    }
+  }
+}
