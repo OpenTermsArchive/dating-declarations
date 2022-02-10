@@ -6,6 +6,9 @@ These service declarations are consumed by the [Open Terms Archive engine](https
 
 You can [explore the tracked versions](https://github.com/OpenTermsArchive/versions-dating) interactively or [download them as a dataset](https://github.com/OpenTermsArchive/versions-dating/releases) in the `OpenTermsArchive/versions-dating` repository.
 
+# RSS feed
+You can monitor changes for a specific service (general terms of privacy policy) for an app (ex: https://github.com/OpenTermsArchive/versions-dating/commits/main/Tinder/Privacy%20Policy.md.atom) or for all the dating services: https://github.com/OpenTermsArchive/versions-dating/commits/main.atom  
+
 ## Scope
 
 The documents declared in this repository are:
