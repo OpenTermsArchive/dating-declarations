@@ -2,7 +2,7 @@
   "name": "Grindr",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://www.grindr.com/terms-of-service/en-US.html",
+      "fetch": "https://www.grindr.com/terms-of-service/",
       "select": "body"
     },
     "Privacy Policy": {
