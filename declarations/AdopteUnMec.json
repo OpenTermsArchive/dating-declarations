@@ -7,6 +7,11 @@
       "select": ".tab-content",
       "remove": ".print"
     },
+    "Trackers Policy": {
+      "fetch": "https://www.adopteunmec.com/cookies",
+      "executeClientScripts": true,
+      "select": ".tab-content",
+      }, 
     "Privacy Policy": {
       "fetch": "https://www.adopteunmec.com/sensitive/",
       "executeClientScripts": true,
