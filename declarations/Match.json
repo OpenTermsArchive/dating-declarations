@@ -8,6 +8,14 @@
     "Privacy Policy": {
       "fetch": "https://uk.match.com/pages/misc/privacy",
       "select": "#article_content"
+    },
+    "Trackers Policy": {
+      "fetch": "https://uk.match.com/pages/misc/cookie",
+      "select": ".article-content"
+    },
+    "Community Guidelines": {
+      "fetch": "https://uk.match.com/pages/misc/community-guidelines/",
+      "select": ".article-content"
     }
   }
 }
