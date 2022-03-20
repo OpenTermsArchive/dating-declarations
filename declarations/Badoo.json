@@ -5,6 +5,10 @@
       "fetch": "https://badoo.com/terms/",
       "select": ".formatted-text"
     },
+      "Trackers Policy": {
+      "fetch": "https://badoo.com/en/cookie-policy",
+      "select": ".formatted-text"
+    },
     "Privacy Policy": {
       "fetch": "https://badoo.com/privacy/",
       "select": ".formatted-text"
