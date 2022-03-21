@@ -13,11 +13,14 @@
       "select": {
         "startBefore": "#av_section_3",
         "endBefore": "#av_section_4"
-      },
-   "Copyright Claims Policy": {
+      }
+    },
+    "Copyright Claims Policy": {
       "fetch": "https://coffeemeetsbagel.com/privacy-terms/",
-     "startBefore": "#av_section_4",
-    }     
+      "select": {
+        "startBefore": "#av_section_4",
+        "endBefore": "#footer"
+      }
     }
   }
 }
