@@ -8,6 +8,10 @@
         "a[href=\"/static_cms/eharmony/static/Downloads/eharmony_UK_Terms_and_Conditions_2021_11_02.pdf\"]"
       ]
     },
+    "Trackers Policy": {
+      "fetch": "https://www.eharmony.co.uk/cookiesandtracking/",
+      "select": ".legalTextBox"
+    },
     "Privacy Policy": {
       "fetch": "https://www.eharmony.co.uk/privacypolicy/",
       "select": ".legalTextBox",
