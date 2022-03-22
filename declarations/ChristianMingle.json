@@ -7,7 +7,17 @@
     },
     "Privacy Policy": {
       "fetch": "https://about.christianmingle.com/en/legal-en/privacy-policy/",
-      "select": ".legal-text-container"
+      "select": {
+        "startBefore": ".legal-text-container > p:first-child",
+        "endBefore": "#cookiepolicy"
+      }
+    },
+        "Trackers Policy": {
+      "fetch": "https://about.christianmingle.com/en/legal-en/privacy-policy/",
+      "select": {
+        "startBefore": "#cookiepolicy",
+        "endBefore": ".entry-footer"
+      }
     }
   }
 }
