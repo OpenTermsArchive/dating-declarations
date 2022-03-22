@@ -11,11 +11,11 @@
     },
     "Trackers Policy": {
       "fetch": "https://uk.match.com/pages/misc/cookie",
-      "select": ".article-content"
+      "select": "#article-content"
     },
     "Community Guidelines": {
       "fetch": "https://uk.match.com/pages/misc/community-guidelines/",
-      "select": ".article-content"
+      "select": "#article-content"
     }
   }
 }
