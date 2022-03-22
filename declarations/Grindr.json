@@ -3,7 +3,7 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.grindr.com/terms-of-service/",
-      "select": ".content"
+      "select": ".multi-content"
     },
     "Privacy Policy": {
       "fetch": "https://www.grindr.com/privacy-policy/",
