@@ -1,7 +1,7 @@
 {
   "name": "ChristianMingle",
   "documents": {
-      "Terms of Service": {
+    "Terms of Service": {
       "fetch": "https://about.christianmingle.com/en/legal-en/terms-of-use/",
       "select": ".entry-content"
     },
@@ -12,7 +12,7 @@
         "endBefore": "#cookiepolicy"
       }
     },
-        "Trackers Policy": {
+    "Trackers Policy": {
       "fetch": "https://about.christianmingle.com/en/legal-en/privacy-policy/",
       "select": {
         "startBefore": "#cookiepolicy",
