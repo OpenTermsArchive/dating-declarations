@@ -1,0 +1,13 @@
+{
+  "name": "LEX",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://help.thisislex.app/article/52-terms-of-use",
+      "select": "#fullArticle"
+    },
+    "Privacy Policy": {
+      "fetch": "https://help.thisislex.app/article/51-privacy-policy",
+      "select": "#fullArticle"
+    }
+  }
+}
