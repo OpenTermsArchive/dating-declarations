@@ -6,9 +6,9 @@
       "executeClientScripts": true,
       "select": ".tab-content",
       "remove": ".print"
-    },
-    "Trackers Policy": {
-      "fetch": "https://www.adopteunmec.com/cookies",
+    }, 
+    "Imprint": {
+      "fetch": "https://www.adopteunmec.com/legal",
       "executeClientScripts": true,
       "select": ".tab-content"
     },
