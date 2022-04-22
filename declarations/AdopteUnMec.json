@@ -12,6 +12,11 @@
       "executeClientScripts": true,
       "select": ".tab-content"
     },
+  "Imprint": {
+      "fetch": "https://www.adopteunmec.com/legal",
+      "executeClientScripts": true,
+      "select": ".tab-content"
+    },
     "Privacy Policy": {
       "fetch": "https://www.adopteunmec.com/sensitive/",
       "executeClientScripts": true,
