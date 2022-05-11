@@ -8,10 +8,10 @@
     "Privacy Policy": {
       "fetch": "https://www.inshallah.com/en/privacy-policy/",
       "select": ".jss1"
-    },    
+    },
     "Trackers Policy": {
       "fetch": "https://www.inshallah.com/en/cookies",
       "select": ".jss1"
-    }  
+    }
   }
 }
