@@ -25,4 +25,4 @@ The documents declared in this repository are:
 
 ## License
 
-The code in this repository is distributed under the GNU Affero General Public Licence (AGPL) v3.0. You need to attribute the resulting works to Open Terms Archive with contributions from HestiaLabs for the Dating Privacy collective.
+The code in this repository is distributed under the GNU Affero General Public Licence (AGPL) v3.0. You need to attribute the resulting works to Open Terms Archive with contributions from HestiaLabs for the [Dating Privacy collective](https://dating-privacy.hestialabs.org/en/).

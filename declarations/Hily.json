@@ -4,12 +4,12 @@
     "Privacy Policy": {
       "fetch": "https://hily.com/privacypolicy",
       "select": ".policy-new"
-        },
-     "Terms of Service": {
+    },
+    "Terms of Service": {
       "fetch": "https://hily.com/terms",
       "select": ".infopage-padding"
     },
-     "Trackers Policy": {
+    "Trackers Policy": {
       "fetch": "https://hily.com/cookiepolicy",
       "select": ".infopage-padding"
     }

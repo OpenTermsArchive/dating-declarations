@@ -12,7 +12,7 @@
       "executeClientScripts": true,
       "select": ".tab-content"
     },
-  "Imprint": {
+    "Imprint": {
       "fetch": "https://www.adopteunmec.com/legal",
       "executeClientScripts": true,
       "select": ".tab-content"
