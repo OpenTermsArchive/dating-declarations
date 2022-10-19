@@ -3,10 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://coffeemeetsbagel.com/privacy-terms/",
-      "select": {
-        "startBefore": "#av_section_2",
-        "endBefore": "#av_section_3"
-      }
+      "select": [
+        {
+          "startBefore": "#av_section_2",
+          "endBefore": "#av_section_3"
+        }
+      ],
+      "filter": [
+        "unifyEmailProtectedAddresses"
+      ]
     },
     "Privacy Policy": {
       "fetch": "https://coffeemeetsbagel.com/privacy-terms/",
