@@ -8,6 +8,9 @@
           "startBefore": "#av_section_2",
           "endBefore": "#av_section_3"
         }
+      ],
+      "filter": [
+        "unifyEmailProtectedAddresses"
       ]
     },
     "Privacy Policy": {
