@@ -1,0 +1,9 @@
+{
+  "Terms of Service": [
+    {
+      "fetch": "https://weareher.com/terms/",
+      "select": ".wrapper",
+      "validUntil": "2022-05-20T12:32:02Z"
+    }
+  ]
+}
