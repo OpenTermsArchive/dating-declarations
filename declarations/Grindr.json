@@ -5,7 +5,8 @@
       "fetch": "https://www.grindr.com/terms-of-service/en-US.html",
       "select": [
         "body"
-      ]
+      ],
+      "remove": "a[href^='/cdn-cgi/l/email-protection']"
     },
     "Privacy Policy": {
       "fetch": "https://www.grindr.com/privacy-policy/",

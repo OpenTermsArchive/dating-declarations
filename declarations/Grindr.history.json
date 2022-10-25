@@ -3,7 +3,7 @@
     {
       "fetch": "https://www.grindr.com/terms-of-service/en-US.html",
       "select": "body",
-      "validUntil": "to-be-determined"
+      "validUntil": "2022-01-20T14:33:37Z"
     }
   ]
 }
