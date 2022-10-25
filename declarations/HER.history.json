@@ -1,0 +1,9 @@
+{
+  "Privacy Policy": [
+    {
+      "fetch": "https://weareher.com/privacy/",
+      "select": ".wrapper",
+      "validUntil": "2022-05-20T12:32:04Z"
+    }
+  ]
+}
