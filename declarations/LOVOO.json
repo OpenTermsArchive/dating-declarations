@@ -9,6 +9,9 @@
       "fetch": "https://www.lovoo.com/legal/privacy",
       "select": [
         ".s-rich-text"
+      ],
+      "filter": [
+        "removePDFBlinkingQueryParam"
       ]
     }
   }
