@@ -1,0 +1,9 @@
+{
+  "Privacy Policy": [
+    {
+      "fetch": "https://www.lovoo.com/legal/privacy",
+      "select": ".s-rich-text",
+      "validUntil": "to-be-determined"
+    }
+  ]
+}
