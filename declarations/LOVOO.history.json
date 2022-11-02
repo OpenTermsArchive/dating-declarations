@@ -3,7 +3,7 @@
     {
       "fetch": "https://www.lovoo.com/legal/privacy",
       "select": ".s-rich-text",
-      "validUntil": "to-be-determined"
+      "validUntil": "2022-05-11T13:25:41Z"
     }
   ]
 }
