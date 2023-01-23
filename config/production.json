@@ -9,14 +9,16 @@
       "storage": {
         "git": {
           "snapshotIdentiferTemplate": "https://github.com/OpenTermsArchive/dating-snapshots/commit/%SNAPSHOT_ID",
-          "repository": "git@github.com:OpenTermsArchive/dating-versions.git"
+          "repository": "git@github.com:OpenTermsArchive/dating-versions.git",
+          "path": "./data/versions"
         }
       }
     },
     "snapshots": {
       "storage": {
         "git": {
-          "repository": "git@github.com:OpenTermsArchive/dating-snapshots.git"
+          "repository": "git@github.com:OpenTermsArchive/dating-snapshots.git",
+          "path": "./data/snapshots"
         }
       }
     }
