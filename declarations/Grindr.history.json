@@ -1,0 +1,9 @@
+{
+  "Terms of Service": [
+    {
+      "fetch": "https://www.grindr.com/terms-of-service/en-US.html",
+      "select": "body",
+      "validUntil": "2022-01-20T14:33:37Z"
+    }
+  ]
+}
