@@ -3,11 +3,21 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://weareher.com/terms/",
-      "select": ".wrapper"
+      "select": [
+        ".content-module"
+      ],
+      "remove": [
+        ".content-module__desktop-sticker"
+      ]
     },
     "Privacy Policy": {
       "fetch": "https://weareher.com/privacy/",
-      "select": ".wrapper"
+      "select": [
+        ".content-module"
+      ],
+      "remove": [
+        ".content-module__desktop-sticker"
+      ]
     }
   }
 }
