@@ -1,0 +1,9 @@
+{
+  "Trackers Policy": [
+    {
+      "fetch": "https://www.parship.fr/cookiesandtracking",
+      "select": ".legalTextBox",
+      "validUntil": "2023-01-31T12:33:17Z"
+    }
+  ]
+}
