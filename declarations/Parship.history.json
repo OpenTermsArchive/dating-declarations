@@ -1,0 +1,10 @@
+{
+  "Terms of Service": [
+    {
+      "fetch": "https://www.parship.fr/termsandconditions/",
+      "select": ".legalTextBox",
+      "remove": "a[href='https://www.parship.fr/static_cms/parship/static/Downloads/Parship_FR_Terms_and_Conditions_2021_11_02.pdf']",
+      "validUntil": "2023-01-31T12:33:16Z"
+    }
+  ]
+}
