@@ -2,7 +2,7 @@
 
 These services declarations are maintained by the [Dating Privacy collective](https://dating-privacy.hestialabs.org/) with the support of [HestiaLabs](https://hestialabs.org) and tracked on [Open Terms Archive](https://opentermsarchive.org).
 
-These service declarations are consumed by the [Open Terms Archive engine](https://github.com/ambanum/OpenTermsArchive). See the Open Terms Archive [contribution guidelines](https://github.com/OpenTermsArchive/contrib-declarations/blob/main/CONTRIBUTING.md) to learn how to add and update services or documents.
+These service declarations are consumed by the [Open Terms Archive engine](https://github.com/OpenTermsArchive/engine). See the Open Terms Archive [contribution guidelines](https://github.com/OpenTermsArchive/contrib-declarations/blob/main/CONTRIBUTING.md) to learn how to add and update services or documents.
 
 You can [explore the tracked versions](https://github.com/OpenTermsArchive/dating-versions) interactively or [download them as a dataset](https://github.com/OpenTermsArchive/dating-versions/releases) in the `OpenTermsArchive/dating-versions` repository.
 
