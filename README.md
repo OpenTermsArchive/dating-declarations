@@ -2,7 +2,7 @@
 
 These services declarations are maintained by the [Dating Privacy collective](https://dating-privacy.hestialabs.org/) with the support of [HestiaLabs](https://hestialabs.org) and tracked on [Open Terms Archive](https://opentermsarchive.org).
 
-These service declarations are consumed by the [Open Terms Archive engine](https://github.com/OpenTermsArchive/engine)
+The terms listed in this collection are tracked by the [Open Terms Archive engine](https://github.com/OpenTermsArchive/engine). 
 
 You can [explore the tracked versions](https://github.com/OpenTermsArchive/dating-versions) interactively or [download them as a dataset](https://github.com/OpenTermsArchive/dating-versions/releases) in the `OpenTermsArchive/dating-versions` repository.
 
@@ -30,13 +30,13 @@ The terms tracked by this repository are those of services that operate:
 
 ## Contribute
 
-In order to contribute to this collection, you should find useful information in the guidelines to learn how to [declare](https://docs.opentermsarchive.org/guidelines/declaring/) and [target](https://docs.opentermsarchive.org/guidelines/targeting/) documents.
+In order to contribute additional terms to this collection or correct existing ones, please read the guidelines on [targeting](https://docs.opentermsarchive.org/guidelines/targeting/) and [declaring](https://docs.opentermsarchive.org/guidelines/declaring/) terms.
 
 - - -
 
 ## CLI usage
 
-Please consult the documentation of available [commands in the CLI](https://docs.opentermsarchive.org/#cli).
+Interacting with this collection can also be done over the command line. Read the [CLI documentation](https://docs.opentermsarchive.org/#cli) for more information.
 
 - - -
 
