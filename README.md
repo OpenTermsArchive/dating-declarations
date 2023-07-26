@@ -1,6 +1,6 @@
 # Open Terms Archive - Dating services
 
-These services declarations are maintained by the [Dating Privacy collective](https://dating-privacy.hestialabs.org/) with the support of [HestiaLabs](https://hestialabs.org) and tracked on [Open Terms Archive](https://opentermsarchive.org).
+These services declarations are maintained since January 2023 by [mvidonne](https://github.com/mvidonne) for the [Dating Privacy collective](https://dating-privacy.hestialabs.org/) with the support of [HestiaLabs](https://hestialabs.org) until end of 2022 and tracked on [Open Terms Archive](https://opentermsarchive.org).
 
 The terms listed in this collection are tracked by the [Open Terms Archive engine](https://github.com/OpenTermsArchive/engine). 
 
@@ -42,4 +42,4 @@ Interacting with this collection can also be done over the command line. Read th
 
 ## License
 
-The code in this repository is distributed under the GNU Affero General Public Licence (AGPL) v3.0. You need to attribute the resulting works to Open Terms Archive with contributions from HestiaLabs for the [Dating Privacy collective](https://dating-privacy.hestialabs.org/en/).
+The code in this repository is distributed under the GNU Affero General Public Licence (AGPL) v3.0. You need to attribute the resulting works to Open Terms Archive with contributions from the [Dating Privacy collective](https://dating-privacy.hestialabs.org/en/).
