@@ -13,7 +13,9 @@
     },
     "Trackers Policy": {
       "fetch": "https://www.parship.fr/cookiesandtracking",
-      "select": ".legalTextBox"
+      "select": [
+        "main.main"
+      ]
     },
     "Commercial Terms": {
       "fetch": "https://www.parship.fr/tour/adhesion/apercu-prix-et-services/",
