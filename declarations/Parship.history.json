@@ -1,0 +1,10 @@
+{
+  "Privacy Policy": [
+    {
+      "fetch": "https://www.parship.fr/privacypolicy/",
+      "select": ".legalTextBox",
+      "remove": "a[href='https://www.parship.fr/static_cms/parship/static/Downloads/Parship_FR_Privacy_Policy_2021_05_04.pdf']",
+      "validUntil": "2023-01-31T12:33:16Z"
+    }
+  ]
+}
