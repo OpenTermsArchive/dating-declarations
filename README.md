@@ -1,36 +1,39 @@
-# Versions of terms from the *Dating* collection
+# Declarations of terms tracked in the *Dating* collection
 
-The terms in this collection are maintained since January 2023 by [mvidonne](https://github.com/mvidonne) for the [Dating Privacy collective](https://dating-privacy.hestialabs.org/) with the support of [HestiaLabs](https://hestialabs.org) until end of 2022 and tracked on [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are declared and maintained since January 2023 by [mvidonne](https://github.com/mvidonne) for the [Dating Privacy collective](https://dating-privacy.hestialabs.org/) with the support of [HestiaLabs](https://hestialabs.org) until end of 2022 and tracked using [Open Terms Archive](https://opentermsarchive.org).
 
-## Usage
+You can [explore the tracked versions](https://github.com/OpenTermsArchive/dating-versions) interactively or [download them as a dataset](https://github.com/OpenTermsArchive/dating-versions/releases) in the `OpenTermsArchive/dating-versions` repository.
 
-### [🔍 Browse through versions](https://docs.opentermsarchive.org/navigate-history/) straight in this repository
+## Scope
 
-### [🔔 Subscribe by RSS](https://docs.opentermsarchive.org/subscribe-rss/) to be notified of changes
+The terms you will find in this collection match the following scope:
 
-### [🗂️ Download as dataset](https://github.com/OpenTermsArchive/dating-versions/releases) to analyse in depth
-
-## Context
-
-[Open Terms Archive](https://opentermsarchive.org) is free and open source software that publicly records every version of the terms of digital services, increasing their readability and highlighting their changes to [enable democratic oversight](https://opentermsarchive.org/impact). In its [vocabulary](https://docs.opentermsarchive.org/#main-concepts):
-
-- A **version** is a record of a service’s terms cleaned of the legally irrelevant parts (e.g. menus, ads…) of an online document. Each version represents the state of the terms at a specific point in time. They are publicly recorded to provide a history of how the terms evolved over time.
-- A **collection** is a group of terms characterised by their language, jurisdiction and industry.
-
-Detailed information about this specific collection, including how to request or contribute terms, can be found in its [declarations repository](https://github.com/OpenTermsArchive/dating-declarations).
-
-## Missing terms
-
-Each collection has a specific scope, and its maintainers might or might not have the intention to track the terms you are interested in.
-
-If some versions are missing, the maintainers of this collection might benefit from your help: check [open issues](https://github.com/OpenTermsArchive/dating-declarations/issues) for known necessary corrections or open a new one.
-
-If specific services, or specific terms for a service, are missing from this collection, they may be available in other [public Open Terms Archive collections](https://opentermsarchive.org/#collections).
-
-If not, you may just be the best person to add them by [following the documentation](https://docs.opentermsarchive.org/contributing-terms)!
+- **Topic:** the dating services used in Europe
+- **Jurisdictions:** European Union and Switzerland
+- **Languages:** English, unless no English version exists, in which case the primary official language of the jurisdiction of incorporation of the service operator will be used
 
 - - -
 
-# License
+## Contribute
 
-Data in this repository is distributed under an ODC-BY 1.0 license. That means you are free to share (to copy, distribute and use the database), to create (to produce works from the database), to adapt (to modify, transform and build upon the database) as long as you attribute the resulting works to *Open Terms Archive with contributions from the [Dating Privacy collective](https://dating-privacy.hestialabs.org/en/)*.
+In order to contribute additional terms to this collection or correct existing ones, please read the [documentation](https://docs.opentermsarchive.org/contributing-terms/).
+
+- - -
+
+## CLI usage
+
+Interacting with this collection can also be done over the command line. Read the [CLI documentation](https://docs.opentermsarchive.org/#cli) for more information.
+
+- - -
+
+## Suggested engine updates
+
+In order to keep the Open Terms Archive engine up-to-date, updates will be automatically suggested by [Dependabot](https://github.blog/2020-06-01-keep-all-your-packages-up-to-date-with-dependabot/) in a pull request when a new version is available.
+
+While engine updates follow the [semantic versioning](https://semver.org) standard and automated collection tests should provide a safety net, it is ultimately the responsibility of the maintainers of the collection to check version compatibility and potentially adjust the declarations before applying these updates.
+
+- - - -
+
+## License
+
+The code in this repository is distributed under the GNU Affero General Public Licence (AGPL) v3.0. You need to attribute the resulting works to Open Terms Archive with contributions from the [Dating Privacy collective](https://dating-privacy.hestialabs.org/en/).
