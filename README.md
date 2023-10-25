@@ -1,6 +1,6 @@
 # Versions of terms from the *Dating* collection
 
-The terms in this collection are are maintained since January 2023 by [mvidonne](https://github.com/mvidonne) for the [Dating Privacy collective](https://dating-privacy.hestialabs.org/) with the support of [HestiaLabs](https://hestialabs.org) until end of 2022 and tracked on [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are maintained since January 2023 by [mvidonne](https://github.com/mvidonne) for the [Dating Privacy collective](https://dating-privacy.hestialabs.org/) with the support of [HestiaLabs](https://hestialabs.org) until end of 2022 and tracked on [Open Terms Archive](https://opentermsarchive.org).
 
 ## Usage
 
