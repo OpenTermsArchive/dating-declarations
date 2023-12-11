@@ -29,9 +29,13 @@
       "updateTemplateId": 40
     }
   },
-  "tracker": {
+  "reporter": {
     "githubIssues": {
-      "repository": "OpenTermsArchive/dating-declarations"
+      "repositories": {
+        "declarations": "OpenTermsArchive/dating-declarations",
+        "versions": "OpenTermsArchive/dating-versions",
+        "snapshots": "OpenTermsArchive/dating-snapshots"
+      }
     }
   },
   "dataset": {
