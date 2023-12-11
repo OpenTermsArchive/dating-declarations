@@ -41,5 +41,8 @@
   "dataset": {
     "title": "dating",
     "versionsRepositoryURL": "https://github.com/OpenTermsArchive/dating-versions"
+  },
+  "api": {
+    "port": 3000
   }
 }
