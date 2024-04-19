@@ -2,15 +2,15 @@
   "name": "Badoo",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://badoo.com/terms#terms",
+      "fetch": "https://badoo.com/terms",
       "select": ".terms-views"
     },
     "Trackers Policy": {
-      "fetch": "https://badoo.com/cookie-policy/#cookie-policy",
+      "fetch": "https://badoo.com/cookie-policy",
       "select": ".terms.views"
     },
     "Privacy Policy": {
-      "fetch": "https://badoo.com/privacy#privacy",
+      "fetch": "https://badoo.com/privacy",
       "select": ".terms.views"
     }
   }
