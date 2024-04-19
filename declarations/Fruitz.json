@@ -3,9 +3,11 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://fruitz.io/terms/en"
+      "select": ".pc1 > .bi "
     },
     "Privacy Policy": {
       "fetch": "https://fruitz.io/privacy/en"
+      "select": ".pc1 > .bi "
     }
   }
 }
