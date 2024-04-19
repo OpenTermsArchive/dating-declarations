@@ -2,10 +2,10 @@
   "name": "Fruitz",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://fruitz.io/terms_en.pdf"
+      "fetch": "https://fruitz.io/terms/en"
     },
     "Privacy Policy": {
-      "fetch": "https://fruitz.io/privacy_en.pdf"
+      "fetch": "https://fruitz.io/privacy/en"
     }
   }
 }
