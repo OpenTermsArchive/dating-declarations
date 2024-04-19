@@ -3,15 +3,15 @@
   "documents": {
     "Privacy Policy": {
       "fetch": "https://hily.com/privacypolicy",
-      "select": ".policy-new"
+      "select": ".order-2"
     },
     "Terms of Service": {
       "fetch": "https://hily.com/terms",
-      "select": ".infopage-padding"
+      "select": ".order-2"
     },
     "Trackers Policy": {
       "fetch": "https://hily.com/cookiepolicy",
-      "select": ".infopage-padding"
+      "select": ".row:nth-child(2) > .col-lg-7"
     }
   }
 }
