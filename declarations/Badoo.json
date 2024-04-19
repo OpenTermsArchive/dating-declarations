@@ -2,16 +2,16 @@
   "name": "Badoo",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://badoo.com/terms/",
-      "select": ".formatted-text"
+      "fetch": "https://badoo.com/terms#terms",
+      "select": ".terms-view"
     },
     "Trackers Policy": {
-      "fetch": "https://badoo.com/en/cookie-policy",
-      "select": ".formatted-text"
+      "fetch": "https://badoo.com/cookie-policy/#cookie-policy",
+      "select": ".terms-view"
     },
     "Privacy Policy": {
-      "fetch": "https://badoo.com/privacy/",
-      "select": ".formatted-text"
+      "fetch": "https://badoo.com/privacy#privacy",
+      "select": ".terms-view"
     }
   }
 }
