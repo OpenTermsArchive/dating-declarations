@@ -3,15 +3,15 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://badoo.com/terms#terms",
-      "select": ".page"
+      "select": ".terms-views"
     },
     "Trackers Policy": {
       "fetch": "https://badoo.com/cookie-policy/#cookie-policy",
-      "select": ".page"
+      "select": ".terms.views"
     },
     "Privacy Policy": {
       "fetch": "https://badoo.com/privacy#privacy",
-      "select": ".page"
+      "select": ".terms.views"
     }
   }
 }
