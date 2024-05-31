@@ -3,14 +3,20 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.grindr.com/terms-of-service",
-      "select": [
-        "body"
+      "select": ".main-content",
+      "remove": [
+        ".legal-pages-tabs-block",
+        ".legal-language_wrapper"
       ],
-      "remove": "a[href^='/cdn-cgi/l/email-protection']"
+      "executeClientScripts": true
     },
     "Privacy Policy": {
       "fetch": "https://www.grindr.com/privacy-policy/",
-      "select": ".richtext-wrapper",
+      "select": ".main-content",
+      "remove": [
+        ".legal-pages-tabs-block",
+        ".legal-language_wrapper"
+      ],
       "executeClientScripts": true
     }
   }
