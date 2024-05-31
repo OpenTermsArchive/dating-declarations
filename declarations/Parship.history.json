@@ -1,0 +1,25 @@
+{
+  "Terms of Service": [
+    {
+      "fetch": "https://www.parship.fr/termsandconditions/",
+      "select": ".legalTextBox",
+      "remove": "a[href='https://www.parship.fr/static_cms/parship/static/Downloads/Parship_FR_Terms_and_Conditions_2021_11_02.pdf']",
+      "validUntil": "2023-12-12T18:33:34Z"
+    }
+  ],
+  "Privacy Policy": [
+    {
+      "fetch": "https://www.parship.fr/privacypolicy/",
+      "select": ".legalTextBox",
+      "remove": "a[href='https://www.parship.fr/static_cms/parship/static/Downloads/Parship_FR_Privacy_Policy_2021_05_04.pdf']",
+      "validUntil": "2023-12-12T18:33:37Z"
+    }
+  ],
+  "Trackers Policy": [
+    {
+      "fetch": "https://www.parship.fr/cookiesandtracking",
+      "select": ".legalTextBox",
+      "validUntil": "2023-12-12T18:33:40Z"
+    }
+  ]
+}
