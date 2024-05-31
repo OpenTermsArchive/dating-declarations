@@ -2,12 +2,14 @@
   "name": "Fruitz",
   "documents": {
     "Terms of Service": {
-      "fetch": "https://fruitz.io/terms/en"
-      "select": ".pc1 > .bi "
+      "fetch": "https://fruitz.io/terms/en",
+      "select": "#page-container",
+      "remove": "img.h1"
     },
     "Privacy Policy": {
-      "fetch": "https://fruitz.io/privacy/en"
-      "select": ".pc1 > .bi "
+      "fetch": "https://fruitz.io/privacy/en",
+      "select": "#page-container",
+      "remove": "img.h1"
     }
   }
 }
