@@ -4,6 +4,22 @@
       "fetch": "https://www.grindr.com/terms-of-service/en-US.html",
       "select": "body",
       "validUntil": "2022-01-20T14:33:37Z"
+    },
+    {
+      "fetch": "https://www.grindr.com/terms-of-service/en-US.html",
+      "select": [
+        "body"
+      ],
+      "remove": "a[href^='/cdn-cgi/l/email-protection']",
+      "validUntil": "2023-12-12T18:32:31Z"
+    }
+  ],
+  "Privacy Policy": [
+    {
+      "fetch": "https://www.grindr.com/privacy-policy/",
+      "select": "#multi-lang-content",
+      "executeClientScripts": true,
+      "validUntil": "2023-12-12T18:32:36Z"
     }
   ]
 }
