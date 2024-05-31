@@ -3,21 +3,20 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.parship.fr/termsandconditions/",
-      "select": ".legalTextBox",
-      "remove": "a[href='https://www.parship.fr/static_cms/parship/static/Downloads/Parship_FR_Terms_and_Conditions_2021_11_02.pdf']"
+      "select": ".main"
     },
     "Privacy Policy": {
       "fetch": "https://www.parship.fr/privacypolicy/",
-      "select": ".legalTextBox",
-      "remove": "a[href='https://www.parship.fr/static_cms/parship/static/Downloads/Parship_FR_Privacy_Policy_2021_05_04.pdf']"
+      "select": ".main"
     },
     "Trackers Policy": {
       "fetch": "https://www.parship.fr/cookiesandtracking",
-      "select": ".legalTextBox"
+      "select": ".main"
     },
     "Commercial Terms": {
       "fetch": "https://www.parship.fr/tour/adhesion/apercu-prix-et-services/",
-      "select": ".content"
+      "select": ".content",
+      "remove": ".wp-block-cover__image-background"
     }
   }
 }
