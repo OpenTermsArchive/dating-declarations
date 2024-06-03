@@ -3,21 +3,18 @@
   "documents": {
     "Terms of Service": {
       "fetch": "https://www.eharmony.co.uk/termsandconditions/",
-      "select": ".legalTextBox",
-      "remove": [
-        "a[href=\"/static_cms/eharmony/static/Downloads/eharmony_UK_Terms_and_Conditions_2021_11_02.pdf\"]"
-      ]
+      "select": "article",
+      "remove": ".sidebar"
     },
     "Trackers Policy": {
       "fetch": "https://www.eharmony.co.uk/cookiesandtracking/",
-      "select": ".legalTextBox"
+      "select": "article",
+      "remove": ".sidebar"
     },
     "Privacy Policy": {
       "fetch": "https://www.eharmony.co.uk/privacypolicy/",
-      "select": ".legalTextBox",
-      "remove": [
-        "a[href=\"https://www.eharmony.co.uk/static_cms/eharmony/static/Downloads/eharmony_UK_Privacy_Policy_2021_05_11.pdf\"]"
-      ]
+      "select": "article",
+      "remove": ".sidebar"
     }
   }
 }
