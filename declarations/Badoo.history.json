@@ -1,0 +1,23 @@
+{
+  "Terms of Service": [
+    {
+      "fetch": "https://badoo.com/terms/",
+      "select": ".formatted-text",
+      "validUntil": "2023-12-12T18:32:05Z"
+    }
+  ],
+  "Trackers Policy": [
+    {
+      "fetch": "https://badoo.com/en/cookie-policy",
+      "select": ".formatted-text",
+      "validUntil": "2023-12-12T18:32:08Z"
+    }
+  ],
+  "Privacy Policy": [
+    {
+      "fetch": "https://badoo.com/privacy/",
+      "select": ".formatted-text",
+      "validUntil": "2023-12-12T18:32:11Z"
+    }
+  ]
+}
