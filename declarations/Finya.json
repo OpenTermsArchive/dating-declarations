@@ -11,9 +11,6 @@
       "fetch": "https://www.finya.de/Legal/privacy/",
       "select": [
         "main"
-      ],
-      "remove": [
-        "main > div:last-child"
       ]
     },
     "Imprint": {
