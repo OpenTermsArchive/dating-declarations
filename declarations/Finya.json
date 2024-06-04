@@ -1,0 +1,23 @@
+{
+  "name": "Finya",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.finya.de/Legal/terms/",
+      "select": [
+        "main"
+      ]
+    },
+    "Privacy Policy": {
+      "fetch": "https://www.finya.de/Legal/privacy/",
+      "select": [
+        "main"
+      ]
+    },
+    "Imprint": {
+      "fetch": "https://www.finya.de/Legal/about/",
+      "select": [
+        "main"
+      ]
+    }
+  }
+}
