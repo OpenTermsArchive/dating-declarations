@@ -1,48 +1,46 @@
 {
-  "name": "dating",
-  "services": {
-    "repository": "https://github.com/OpenTermsArchive/dating-declarations.git",
-    "declarationsPath": "./declarations"
-  },
-  "recorder": {
-    "versions": {
-      "storage": {
-        "git": {
-          "snapshotIdentiferTemplate": "https://github.com/OpenTermsArchive/dating-snapshots/commit/%SNAPSHOT_ID",
-          "repository": "git@github.com:OpenTermsArchive/dating-versions.git",
-          "path": "./data/versions"
+  "@opentermsarchive/engine": {
+    "recorder": {
+      "versions": {
+        "storage": {
+          "git": {
+            "snapshotIdentiferTemplate": "https://github.com/OpenTermsArchive/dating-snapshots/commit/%SNAPSHOT_ID",
+            "repository": "git@github.com:OpenTermsArchive/dating-versions.git",
+            "path": "./data/versions"
+          }
+        }
+      },
+      "snapshots": {
+        "storage": {
+          "git": {
+            "repository": "git@github.com:OpenTermsArchive/dating-snapshots.git",
+            "path": "./data/snapshots"
+          }
         }
       }
     },
-    "snapshots": {
-      "storage": {
-        "git": {
-          "repository": "git@github.com:OpenTermsArchive/dating-snapshots.git",
-          "path": "./data/snapshots"
+    "notifier": {
+      "sendInBlue": {
+        "updatesListId": 594,
+        "updateTemplateId": 40
+      }
+    },
+    "reporter": {
+      "githubIssues": {
+        "repositories": {
+          "declarations": "OpenTermsArchive/dating-declarations",
+          "versions": "OpenTermsArchive/dating-versions",
+          "snapshots": "OpenTermsArchive/dating-snapshots"
         }
       }
+    },
+    "dataset": {
+      "title": "dating",
+      "versionsRepositoryURL": "https://github.com/OpenTermsArchive/dating-versions"
+    },
+    "collection-api": {
+      "port": 3000,
+      "basePath": "/collection-api"
     }
-  },
-  "notifier": {
-    "sendInBlue": {
-      "updatesListId": 594,
-      "updateTemplateId": 40
-    }
-  },
-  "reporter": {
-    "githubIssues": {
-      "repositories": {
-        "declarations": "OpenTermsArchive/dating-declarations",
-        "versions": "OpenTermsArchive/dating-versions",
-        "snapshots": "OpenTermsArchive/dating-snapshots"
-      }
-    }
-  },
-  "dataset": {
-    "title": "dating",
-    "versionsRepositoryURL": "https://github.com/OpenTermsArchive/dating-versions"
-  },
-  "api": {
-    "port": 3000
   }
 }
