@@ -20,29 +20,18 @@ trackingPeriods:
     schedule: "30 */12 * * *"
     serverLocation: Roubaix, FR
 governance:
-  hosts:
-    - name: Dating Privacy Collective
-      url: https://dating-privacy.hestialabs.org/en/
-      logo: https://opentermsarchive.org/images/contributors/dating-privacy.png
-  administrators:
-    - name: Open Terms Archive
-      url: https://opentermsarchive.org
-      logo: https://opentermsarchive.org/images/logo/logo-open-terms-archive-black-small.png
-  curators:
-    - name: Dating Privacy Collective
-      url: https://dating-privacy.hestialabs.org/en/
-      logo: https://opentermsarchive.org/images/contributors/dating-privacy.png
-  maintainers:
-    - name: Dating Privacy Collective
-      url: https://dating-privacy.hestialabs.org/en/
-      logo: https://opentermsarchive.org/images/contributors/dating-privacy.png
-  sponsors:
-    - name: Dating Privacy Collective
-      url: https://dating-privacy.hestialabs.org/en/
-      logo: https://opentermsarchive.org/images/contributors/dating-privacy.png
-    - name: Ministry for Europe and Foreign Affairs
-      url: https://www.diplomatie.gouv.fr/en/
-      logo: https://opentermsarchive.org/images/contributors/meae.png
+  Dating Privacy Collective:
+    url: https://dating-privacy.hestialabs.org/en/
+    logo: https://opentermsarchive.org/images/contributors/dating-privacy.png
+    roles: [host, curator, maintainer, sponsor]
+  Open Terms Archive:
+    url: https://opentermsarchive.org
+    logo: https://opentermsarchive.org/images/logo/logo-open-terms-archive-black-small.png
+    roles: [administrator]
+  Ministry for Europe and Foreign Affairs:
+    url: https://www.diplomatie.gouv.fr/en/
+    logo: https://opentermsarchive.org/images/contributors/meae.png
+    roles: [sponsor]
 
 i18n:
   fr: 
@@ -54,22 +43,9 @@ i18n:
       
       Elle vise à sensibiliser aux risques liés à la protection de la vie privée et à créer de nouvelles pratiques dans le domaine des rencontres en ligne, tant pour les utilisateurs que pour les plateformes.
     governance:
-      hosts:
-        - name: Collectif Dating Privacy
-          url: https://dating-privacy.hestialabs.org/fr/
-          logo: https://opentermsarchive.org/images/contributors/dating-privacy.png
-      curators:
-        - name: Collectif Dating Privacy
-          url: https://dating-privacy.hestialabs.org/fr/
-          logo: https://opentermsarchive.org/images/contributors/dating-privacy.png
-      maintainers:
-        - name: Collectif Dating Privacy
-          url: https://dating-privacy.hestialabs.org/fr/
-          logo: https://opentermsarchive.org/images/contributors/dating-privacy.png
-      sponsors:
-        - name: Collectif Dating Privacy
-          url: https://dating-privacy.hestialabs.org/fr/
-          logo: https://opentermsarchive.org/images/contributors/dating-privacy.png
-        - name: Ministère de l'Europe et des Affaires étrangères
-          url: https://www.diplomatie.gouv.fr
-          logo: https://opentermsarchive.org/images/contributors/meae.png
+      Dating Privacy Collective:
+        name: Collectif Dating Privacy
+        url: https://dating-privacy.hestialabs.org/fr/
+      Ministry for Europe and Foreign Affairs:
+        name: Ministère de l'Europe et des Affaires étrangères
+        url: https://www.diplomatie.gouv.fr
