@@ -1,0 +1,51 @@
+id: dating
+name: Dating
+tagline: Online dating services
+description: |
+  The **Dating** collection tracks terms of dating services used in Europe and Switzerland.
+  
+  This collection is maintained by [Marie-Pierre Vidonne](https://github.com/mvidonne) (with the support of [HestiaLabs](https://hestialabs.org/en/) until end of 2022) for the [Dating Privacy collective](https://dating-privacy.hestialabs.org/en/).
+  
+  It aims to raise awareness about privacy risks and build new practices in online dating for both users and platforms.
+dataset: https://github.com/OpenTermsArchive/dating-versions/releases
+declarations: https://github.com/OpenTermsArchive/dating-declarations
+versions: https://github.com/OpenTermsArchive/dating-versions
+snapshots: https://github.com/OpenTermsArchive/dating-snapshots
+donations: https://opencollective.com/opentermsarchive/projects/collection-dating
+logo: https://opentermsarchive.org/images/collections/dating.png
+languages: [en]
+jurisdictions: [FR,CH]
+trackingPeriods:
+  - startDate: 2022-03-14
+    schedule: "30 */12 * * *"
+    serverLocation: Roubaix, FR
+governance:
+  Dating Privacy Collective:
+    url: https://dating-privacy.hestialabs.org/en/
+    logo: https://opentermsarchive.org/images/contributors/dating-privacy.png
+    roles: [host, curator, maintainer, sponsor]
+  Open Terms Archive:
+    url: https://opentermsarchive.org
+    logo: https://opentermsarchive.org/images/logo/logo-open-terms-archive-black-small.png
+    roles: [administrator]
+  Ministry for Europe and Foreign Affairs:
+    url: https://www.diplomatie.gouv.fr/en/
+    logo: https://opentermsarchive.org/images/contributors/meae.png
+    roles: [sponsor]
+
+i18n:
+  fr: 
+    tagline: Services de rencontres en ligne
+    description: | 
+      La collection **Dating** suit les conditions d'utilisation des services de rencontres utilisés en Europe et en Suisse.
+      
+      Cette collection est maintenue par [Marie-Pierre Vidonne](https://github.com/mvidonne) (avec le soutien de [HestiaLabs](https://hestialabs.org/fr/) jusqu'à fin 2022) pour le [Collectif Dating Privacy](https://dating-privacy.hestialabs.org/fr/).
+      
+      Elle vise à sensibiliser aux risques liés à la protection de la vie privée et à créer de nouvelles pratiques dans le domaine des rencontres en ligne, tant pour les utilisateurs que pour les plateformes.
+    governance:
+      Dating Privacy Collective:
+        name: Collectif Dating Privacy
+        url: https://dating-privacy.hestialabs.org/fr/
+      Ministry for Europe and Foreign Affairs:
+        name: Ministère de l'Europe et des Affaires étrangères
+        url: https://www.diplomatie.gouv.fr
