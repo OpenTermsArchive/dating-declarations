@@ -16,6 +16,6 @@
     "Community Guidelines": {
       "fetch": "https://bumble.com/en/guidelines",
       "select": ".formatted-text"
-    },
+    }
   }
 }
