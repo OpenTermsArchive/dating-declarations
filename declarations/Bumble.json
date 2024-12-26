@@ -12,6 +12,10 @@
     "Trackers Policy": {
       "fetch": "https://bumble.com/cookie-policy",
       "select": ".formatted-text"
-    }
+    },
+    "Community Guidelines": {
+      "fetch": "https://bumble.com/en/guidelines",
+      "select": ".formatted-text"
+    },
   }
 }
