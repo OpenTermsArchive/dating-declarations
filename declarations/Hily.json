@@ -4,14 +4,26 @@
     "Privacy Policy": {
       "fetch": "https://hily.com/privacypolicy",
       "select": ".right",
+      "remove": [
+        ".breadcrumb",
+        ".table_of_content"
+            ]
     },
     "Terms of Service": {
       "fetch": "https://hily.com/terms",
       "select": ".right",
+      "remove": [
+        ".breadcrumb",
+        ".table_of_content"
+            ]
     },
     "Trackers Policy": {
       "fetch": "https://hily.com/cookiepolicy",
       "select": ".right",
+      "remove": [
+        ".breadcrumb",
+        ".table_of_content"
+            ]
     }
   }
 }
