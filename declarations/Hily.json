@@ -7,7 +7,7 @@
       "remove": [
         ".breadcrumb",
         ".table_of_content"
-            ]
+      ]
     },
     "Terms of Service": {
       "fetch": "https://hily.com/terms",
@@ -15,7 +15,7 @@
       "remove": [
         ".breadcrumb",
         ".table_of_content"
-            ]
+      ]
     },
     "Trackers Policy": {
       "fetch": "https://hily.com/cookiepolicy",
@@ -23,7 +23,7 @@
       "remove": [
         ".breadcrumb",
         ".table_of_content"
-            ]
+      ]
     }
   }
 }
