@@ -1,6 +1,6 @@
 {
   "name": "Fruitz",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://fruitz.io/terms/en",
       "select": "#page-container",

@@ -1,6 +1,6 @@
 {
   "name": "ChristianMingle",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://about.christianmingle.com/en/legal-en/terms-of-use/",
       "select": ".entry-content"

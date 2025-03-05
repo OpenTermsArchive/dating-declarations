@@ -1,6 +1,6 @@
 {
   "name": "HER",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://weareher.com/terms/",
       "select": [

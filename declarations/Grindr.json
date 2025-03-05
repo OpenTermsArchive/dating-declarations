@@ -1,6 +1,6 @@
 {
   "name": "Grindr",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.grindr.com/terms-of-service",
       "select": ".main-content",
