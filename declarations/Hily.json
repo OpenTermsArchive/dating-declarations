@@ -1,6 +1,6 @@
 {
   "name": "Hily",
-  "documents": {
+  "terms": {
     "Privacy Policy": {
       "fetch": "https://hily.com/privacypolicy",
       "select": ".right",

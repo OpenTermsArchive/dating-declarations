@@ -1,6 +1,6 @@
 {
   "name": "Lex",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://help.thisislex.app/article/52-terms-of-use",
       "select": "#fullArticle",

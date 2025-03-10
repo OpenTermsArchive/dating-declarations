@@ -1,6 +1,6 @@
 {
   "name": "ROMEO",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.romeo.com/en/terms-of-use/",
       "select": ".entry-content"

@@ -1,6 +1,6 @@
 {
   "name": "Coffee Meets Bagel",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://coffeemeetsbagel.com/privacy-terms/",
       "select": [

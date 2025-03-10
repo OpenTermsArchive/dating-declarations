@@ -1,6 +1,6 @@
 {
   "name": "Eharmony",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.eharmony.co.uk/termsandconditions/",
       "select": "article",

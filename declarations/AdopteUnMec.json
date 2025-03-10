@@ -1,6 +1,6 @@
 {
   "name": "AdopteUnMec",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.adopteunmec.com/cgu/",
       "executeClientScripts": true,

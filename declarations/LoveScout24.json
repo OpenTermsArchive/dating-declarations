@@ -1,6 +1,6 @@
 {
   "name": "LoveScout24",
-  "documents": {
+  "terms": {
     "Community Guidelines": {
       "fetch": "https://www.lovescout24.de/pages/misc/community-guidelines",
       "select": "#article_content"

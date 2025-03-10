@@ -1,6 +1,6 @@
 {
   "name": "Finya",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.finya.de/Legal/terms/",
       "select": [

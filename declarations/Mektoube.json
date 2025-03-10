@@ -1,6 +1,6 @@
 {
   "name": "Mektoube",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.mektoube.fr/cgu",
       "executeClientScripts": true,
