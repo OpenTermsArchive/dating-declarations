@@ -1,6 +1,6 @@
 {
   "name": "Jdate",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://about.jdate.com/legal-en/terms-of-use/",
       "select": ".entry-content"

@@ -1,6 +1,6 @@
 {
   "name": "Parship",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.parship.fr/termsandconditions/",
       "select": ".main"
