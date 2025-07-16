@@ -5,5 +5,12 @@
       "select": ".s-rich-text",
       "validUntil": "2022-05-11T13:25:41Z"
     }
+  ],
+  "Terms of Service": [
+    {
+      "fetch": "https://www.lovoo.com/legal/toc",
+      "select": ".s-rich-text",
+      "validUntil": "2025-07-08T00:33:10Z"
+    }
   ]
 }
