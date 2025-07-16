@@ -4,6 +4,16 @@
       "fetch": "https://www.lovoo.com/legal/privacy",
       "select": ".s-rich-text",
       "validUntil": "2022-05-11T13:25:41Z"
+    },
+    {
+      "fetch": "https://www.lovoo.com/legal/privacy",
+      "select": [
+        ".s-rich-text"
+      ],
+      "filter": [
+        "removePDFBlinkingQueryParam"
+      ],
+      "validUntil": "2025-07-08T00:33:13Z"
     }
   ]
 }
