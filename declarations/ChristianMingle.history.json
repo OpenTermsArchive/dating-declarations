@@ -1,0 +1,12 @@
+{
+  "Privacy Policy": [
+    {
+      "fetch": "https://about.christianmingle.com/en/legal-en/privacy-policy/",
+      "select": {
+        "startBefore": ".legal-text-container > p:first-child",
+        "endBefore": "#cookiepolicy"
+      },
+      "validUntil": "2025-07-08T00:32:20Z"
+    }
+  ]
+}
