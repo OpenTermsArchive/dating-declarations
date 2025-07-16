@@ -1,0 +1,12 @@
+{
+  "Trackers Policy": [
+    {
+      "fetch": "https://about.christianmingle.com/en/legal-en/privacy-policy/",
+      "select": {
+        "startBefore": "#cookiepolicy",
+        "endBefore": ".entry-footer"
+      },
+      "validUntil": "2025-07-08T00:32:27Z"
+    }
+  ]
+}
