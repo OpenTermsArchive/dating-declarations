@@ -2,15 +2,9 @@
   "name": "Coffee Meets Bagel",
   "terms": {
     "Terms of Service": {
-      "fetch": "https://coffeemeetsbagel.com/privacy-terms/",
+      "fetch": "https://ww.coffeemeetsbagel.com/tos",
       "select": [
-        {
-          "startBefore": "#av_section_2",
-          "endBefore": "#av_section_3"
-        }
-      ],
-      "filter": [
-        "unifyEmailProtectedAddresses"
+        ".framer-1ddftyp"
       ]
     },
     "Privacy Policy": {
