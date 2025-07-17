@@ -10,7 +10,7 @@
       "select": "main"
     },
     "Trackers Policy": {
-      "fetch": "hhttps://support.happn.fr/hc/en-us/p/cookies",
+      "fetch": "https://support.happn.fr/hc/en-us/p/cookies",
       "select": "main"
     }
   }
