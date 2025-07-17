@@ -2,7 +2,7 @@
   "name": "happn",
   "terms": {
     "Terms of Service": {
-      "fetch": "https://support.happn.fr/hc/en-us/p/terms",
+      "fetch": "https://support.happn.fr/hc/en-us/p/term",
       "select": "main"
     },
     "Privacy Policy": {
@@ -10,8 +10,8 @@
       "select": "main"
     },
     "Trackers Policy": {
-      "fetch": "https://www.happn.com/en/cookies/",
-      "select": ".page"
+      "fetch": "hhttps://support.happn.fr/hc/en-us/p/cookies",
+      "select": "main"
     }
   }
 }
