@@ -14,11 +14,10 @@
       ]
     },
     "Privacy Policy": {
-      "fetch": "https://coffeemeetsbagel.com/privacy-terms/",
-      "select": {
-        "startBefore": "#av_section_3",
-        "endBefore": "#av_section_4"
-      }
+      "fetch": "https://ww.coffeemeetsbagel.com/privacy-policy",
+      "select": [
+        ".framer-19cfqfu"
+      ]
     },
     "Copyright Claims Policy": {
       "fetch": "https://coffeemeetsbagel.com/privacy-terms/",
