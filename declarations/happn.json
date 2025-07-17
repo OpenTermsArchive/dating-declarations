@@ -2,16 +2,16 @@
   "name": "happn",
   "terms": {
     "Terms of Service": {
-      "fetch": "https://support.happn.fr/hc/en-us/p/term",
+      "fetch": "https://support.happn.fr/hc/en-us/p/terms",
       "select": "main"
     },
     "Privacy Policy": {
       "fetch": "https://support.happn.fr/hc/en-us/p/privacy/",
-      "select": "main"
+      "select": ".custom.page.content"
     },
     "Trackers Policy": {
       "fetch": "https://support.happn.fr/hc/en-us/p/cookies",
-      "select": "main"
+      "select": ".custom.page.content"
     }
   }
 }
