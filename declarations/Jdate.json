@@ -15,7 +15,6 @@
     "Trackers Policy": {
       "fetch": "https://about.jdate.com/legal-en/privacy-policy/",
       "select": [
-        ".legal-text-container:nth-child(1)",
         ".entry-content"
       ]
     }
