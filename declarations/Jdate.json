@@ -7,17 +7,18 @@
     },
     "Privacy Policy": {
       "fetch": "https://about.jdate.com/legal-en/privacy-policy/",
-      "select": {
-        "startBefore": ".legal-text-container > p:first-child",
-        "endBefore": "#cookiepolicy"
-      }
+      "select": [
+        ".entry-content"
+      ],
+      "remove": [
+        "#CookieNotice"
+      ]
     },
     "Trackers Policy": {
       "fetch": "https://about.jdate.com/legal-en/privacy-policy/",
-      "select": {
-        "startBefore": "#cookiepolicy",
-        "endBefore": ".entry-footer"
-      }
+      "select": [
+        ".entry-content"
+      ]
     }
   }
 }

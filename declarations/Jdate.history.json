@@ -1,0 +1,22 @@
+{
+  "Privacy Policy": [
+    {
+      "fetch": "https://about.jdate.com/legal-en/privacy-policy/",
+      "select": {
+        "startBefore": ".legal-text-container > p:first-child",
+        "endBefore": "#cookiepolicy"
+      },
+      "validUntil": "2025-07-08T00:33:04Z"
+    }
+  ],
+  "Trackers Policy": [
+    {
+      "fetch": "https://about.jdate.com/legal-en/privacy-policy/",
+      "select": {
+        "startBefore": "#cookiepolicy",
+        "endBefore": ".entry-footer"
+      },
+      "validUntil": "2025-07-08T00:33:07Z"
+    }
+  ]
+}
