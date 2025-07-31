@@ -13,10 +13,9 @@
     },
     "Trackers Policy": {
       "fetch": "https://about.christianmingle.com/en/legal-en/privacy-policy/",
-      "select": {
-        "startBefore": "#cookiepolicy",
-        "endBefore": ".entry-footer"
-      }
+      "select": [
+        ".legal-text-container"
+      ]
     }
   }
 }
