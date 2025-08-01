@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://www.lovoo.com/legal/toc",
       "select": [
-        ".wp-container-core-columns-is-layout-2 > .wp-block-column"
+        ".wp-container-core-columns-is-layout-2"
       ]
     },
     "Privacy Policy": {
