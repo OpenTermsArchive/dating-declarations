@@ -81,9 +81,19 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "Cli4d",
+      "name": "Clifford Ouma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56266330?v=4",
+      "profile": "https://github.com/Cli4d",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "repoType": "github",
   "commitConvention": "none",
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "commitType": "docs"
 }
